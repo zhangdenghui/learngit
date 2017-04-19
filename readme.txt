@@ -1,1 +1,2 @@
-if you are sad , let you very sadly;
+Git is a distributed version control system.
+Git is free software.
